@@ -103,7 +103,7 @@ const MemoryGame = () => {
          </div>
 
          {matchedPairs === cardSymbols.length && (
-            <p>🎉 Félicitations ! Vous avez trouvé toutes les paires ! 🎉</p>
+            <p>🎉 Félicitations ! Vous avez trouvé toutes les paires !! 🎉</p>
          )}
       </div>
    );
